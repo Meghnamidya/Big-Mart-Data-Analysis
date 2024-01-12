@@ -94,3 +94,34 @@
   </tr>
 </table>
 <h2>METHODOLOGY</h2>
+<dl align="justify">
+  <dt>1.	Dataset</dt>
+  <dd>Through the use of a Kaggle Dataset, the project's necessary data was gathered. Data collection is the process of gathering, acquiring and compiling data from various sources or methods. Datasets are used in a wide range of fields, including but not limited to, data science, machine learning, statistics, social sciences, healthcare, finance, marketing and more. They serve as the foundation for conducting research, analysis and modeling and are crucial for generating insights, making informed decisions and developing predictive or prescriptive models.</dd>
+  <dt>2.	Defining the Problem</dt>
+  <dd>It is necessary to accurately define the data problem that is to be solved. The issue or goal of the data analysis and data prediction should be clearly stated. To establish your complete prediction method, it is essential that you comprehend the issue or goal.</dd>
+  <dd>Each business will encounter sales projection issues at some point throughout its existence. If done correctly, it may significantly affect the performance and profitability of that firm. Big Mart's data scientists have gathered sales information from 2013 for numerous items across stores in several cities.  The goal is to create a prediction model that can forecast the sales of each item at certain stores.</dd>
+  <dt>3.	Preprocessing Data</dt>
+  <dd>Preprocessing includes cleaning, converting, and preparing raw data so that it is appropriate for additional analysis or modeling. It is a critical stage in the data analysis and machine learning pipeline. Preprocessing is often necessary to address issues such as missing data, inconsistent formatting, noise, outliers or irrelevant information in the data, and to standardize or normalize the data to a common format or scale. Properly preprocessing data can significantly impact the accuracy, reliability and interpretability of the results obtained from the data analysis or modeling process.</dd>
+  <dt>4.	Exploring and Visualizing Data</dt>
+  <dd>Exploring and visualizing data is an important step in the data analysis process that involves examining, summarizing and visualizing the main characteristics, patterns and relationships present in the data. Data exploration and visualization techniques are used to gain insights, identify trends, detect patterns and uncover hidden information in the data, which can help inform decision-making, generate hypotheses, or guide further analysis.</dd>
+  <dt>5.	Splitting and Training Data</dt>
+  </dd>Splitting the data into training and testing datasets is necessary for any data analysis. The training dataset is used to train the prediction model, while the testing dataset is used to evaluate the performance of the trained model. Preprocessing the training and testing datasets separately or together ensures that any data transformations or imputations are applied consistently.</dd>
+  <dt>6.	Model Building</dt>
+  <dd>Machine Learning prediction models are trained in this process and then later on evaluated using the data. Choose an appropriate prediction model based on the characteristics of your data and the problem you are trying to solve. Store the generated output in the required format.</dd>
+</dl>
+<h2>EXPLORATORY DATA ANALYSIS</h2>
+<p align="justify">Exploratory Data Analysis is a critical step in the data analysis process that involves examining and analyzing data to understand its structure, patterns, relationships and characteristics. EDA helps in gaining insights, identifying trends, detecting anomalies and making data-driven decisions. Some key objectives of EDA include:</p>
+<dl align="justify">
+  <dt>1.	Data Understanding:</dt> 
+  <dd>EDA involves thoroughly examining the data to understand its content, structure and quality. This includes checking data types, variable distributions, missing values, outliers and other data characteristics.</dd>
+  <dt>2.	Data Visualization:</dt>
+  <dd>EDA often involves creating visualizations such as plots, charts and graphs to explore data visually. Visualizations can help in identifying patterns, trends and relationships in the data, making it easier to interpret and understand.</dd>
+  <dt>3.	Data Summarization and Aggregation:</dt>
+  <dd>EDA involves aggregating and summarizing data to obtain descriptive statistics such as mean, median, mode, standard deviation and others. This can help in gaining insights into the central tendency, variability and distribution of the data.</dd>
+  <dt>4.	Data Profiling:</dt>
+  <dd>EDA may involve creating data profiles, which provide an overview of the data characteristics, such as unique values, data ranges, data distributions and data quality metrics. Data profiling helps in identifying data issues and understanding the data's overall quality.</dd>
+  <dt>5.	Data Cleansing and Preprocessing:</dt>
+  <dd>EDA may also involve identifying and addressing data quality issues, such as missing values, outliers, inconsistencies and errors. This may include data imputation, data cleaning and data transformation techniques to prepare the data for further analysis.</dd>
+</dl>
+<h2 align="center">-----Kindly Go Through The Project-----</h2>
+<h1 align="center">THANK YOU!</h1>
