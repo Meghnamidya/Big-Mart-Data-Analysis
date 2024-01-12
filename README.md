@@ -105,7 +105,7 @@
   <dt>4.	Exploring and Visualizing Data</dt>
   <dd>Exploring and visualizing data is an important step in the data analysis process that involves examining, summarizing and visualizing the main characteristics, patterns and relationships present in the data. Data exploration and visualization techniques are used to gain insights, identify trends, detect patterns and uncover hidden information in the data, which can help inform decision-making, generate hypotheses, or guide further analysis.</dd>
   <dt>5.	Splitting and Training Data</dt>
-  </dd>Splitting the data into training and testing datasets is necessary for any data analysis. The training dataset is used to train the prediction model, while the testing dataset is used to evaluate the performance of the trained model. Preprocessing the training and testing datasets separately or together ensures that any data transformations or imputations are applied consistently.</dd>
+  <dd>Splitting the data into training and testing datasets is necessary for any data analysis. The training dataset is used to train the prediction model, while the testing dataset is used to evaluate the performance of the trained model. Preprocessing the training and testing datasets separately or together ensures that any data transformations or imputations are applied consistently.</dd>
   <dt>6.	Model Building</dt>
   <dd>Machine Learning prediction models are trained in this process and then later on evaluated using the data. Choose an appropriate prediction model based on the characteristics of your data and the problem you are trying to solve. Store the generated output in the required format.</dd>
 </dl>
